@@ -1,0 +1,9 @@
+--- A small selection of rss-feed links with which to test the application (copy & paste) ---
+
+http://feeds.noodle.mx/TheAudacitytoPodcast-mp3
+
+http://feeds.soundcloud.com/playlists/soundcloud:playlists:226118815/sounds.rss
+
+http://feeds.soundcloud.com/users/soundcloud:users:54149232/sounds.rss
+
+http://feeds.soundcloud.com/users/soundcloud:users:175240992/sounds.rss
